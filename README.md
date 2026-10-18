@@ -37,7 +37,7 @@ Town notice boards for the RSG Framework (RedM). Players use ox_target on a boun
 | `Config.AdminPermission` / `Config.AdminCommand` | Who can manage boards and the command name |
 
 ## Placing boards
-`/noticeadmin` → **Place New Board** → enter a name → aim to move the board. Q/E rotates it, Up/Down changes the height, LMB places it and RMB cancels. All keys can be changed in `Config.PlacerKeys`.
+`/noticeadmin` → **Place New Board** → enter a name → aim to move the board. Left/Right rotates it, Up/Down changes the height, LMB places it and RMB cancels. All keys can be changed in `Config.PlacerKeys`.
 
 ## Security
 - All fees, prices, durations and categories are checked on the server. The client only sends text and IDs from the config
